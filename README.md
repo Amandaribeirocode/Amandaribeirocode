@@ -12,7 +12,20 @@ Meu nome é Amanda Ribeiro e estou iniciando minha jornada no universo da tecnol
             src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
         />
     </a>
-
+    <a href="https://www.linkedin.com/in/amanda-karoline-661432165/">
+        <img 
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"
+        />
+    </a>
+        <a href="553796856484724743">
+        <img 
+            alt="Discord" 
+            title="Discord" 
+            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white(https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)"
+        />
+    </a>
 </p>
 
 ---
