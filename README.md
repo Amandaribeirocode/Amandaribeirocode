@@ -57,6 +57,9 @@ Meu nome é Amanda Ribeiro e estou iniciando minha jornada no universo da tecnol
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+<br>
+<br>
+
 <h3 align="left">GitHub Stats</h3>
 
 <p>
