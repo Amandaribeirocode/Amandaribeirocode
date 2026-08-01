@@ -19,13 +19,6 @@ Meu nome é Amanda Ribeiro e estou iniciando minha jornada no universo da tecnol
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-        <a href="https:discordapp.com/users/553796856484724743">
-        <img 
-            alt="Discord" 
-            title="Discord" 
-            src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
