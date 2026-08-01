@@ -62,23 +62,9 @@ Meu nome é Amanda Ribeiro e estou iniciando minha jornada no universo da tecnol
 
 <h3 align="left">GitHub Stats</h3>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Amandaribeirocode&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
-  />
+<p> <img align="left" alt="GitHub Stats" height="180" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Amandaribeirocode&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br" />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Amandaribeirocode&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
-  />
+<img align="left" alt="GitHub Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandaribeirocode&layout=compact&langs_count=7&theme=radical" />
 
 </p>
-
-
 
