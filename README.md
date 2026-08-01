@@ -12,7 +12,7 @@ Meu nome é Amanda Ribeiro e estou iniciando minha jornada no universo da tecnol
             src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/amanda-karoline-661432165/">
+    <a href="https://www.linkedin.com/in/amandakarolineribeiro/">
         <img 
             alt="Linkedin" 
             title="Linkedin" 
